@@ -1,0 +1,21 @@
+{
+  "tabs": [
+    { "label": "快捷", "value": "kj" },
+    { "label": "两面", "value": "lm" },
+    { "label": "1~10名", "value": "sz" },
+    { "label": "冠亚和", "value": "hz" }
+  ],
+  "menus": [
+    {"value": "1", "label": "冠军", "choosen": false},
+    {"value": "2", "label": "亚军", "choosen": false},
+    {"value": "3", "label": "第三名", "choosen": false},
+    {"value": "4", "label": "第四名", "choosen": false},
+    {"value": "5", "label": "第五名", "choosen": false},
+    {"value": "6", "label": "第六名", "choosen": false},
+    {"value": "7", "label": "第七名", "choosen": false},
+    {"value": "8", "label": "第八名", "choosen": false},
+    {"value": "9", "label": "第九名", "choosen": false},
+    {"value": "10", "label": "第十名", "choosen": false}
+  ],
+  "showLeftSide": true
+}

@@ -1,0 +1,12 @@
+{
+  "tabs": [
+    { "label": "三军", "value": "sg" },
+    { "label": "围全骰", "value": "wq" },
+    { "label": "点数", "value": "ds" },
+    { "label": "长牌", "value": "cp" },
+    { "label": "短牌", "value": "dp" }
+  ],
+  "menus": [],
+  "showLeftSide": false,
+  "defaultPlay": "sg"
+}

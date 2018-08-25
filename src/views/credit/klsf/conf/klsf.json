@@ -1,0 +1,26 @@
+{
+  "menus": [
+    {"value": "1", "label": "第一球", "choosen": false},
+    {"value": "2", "label": "第二球", "choosen": false},
+    {"value": "3", "label": "第三球", "choosen": false},
+    {"value": "4", "label": "第四球", "choosen": false},
+    {"value": "5", "label": "第五球", "choosen": false},
+    {"value": "6", "label": "第六球", "choosen": false},
+    {"value": "7", "label": "第七球", "choosen": false},
+    {"value": "8", "label": "第八球", "choosen": false}
+  ],
+  "tabs": [
+    { "label": "快捷", "value": "kj" },
+    { "label": "两面", "value": "lm" },
+    { "label": "第一球", "value": "1" },
+    { "label": "第二球", "value": "2" },
+    { "label": "第三球", "value": "3" },
+    { "label": "第四球", "value": "4" },
+    { "label": "第五球", "value": "5" },
+    { "label": "第六球", "value": "6" },
+    { "label": "第七球", "value": "7" },
+    { "label": "第八球", "value": "8" },
+    { "label": "正码", "value": "zm" }
+  ],
+  "showLeftSide": true
+}

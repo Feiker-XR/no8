@@ -1,0 +1,45 @@
+{
+  "playGroupIndex": 0,
+  "playGroupList": [
+    {
+      "name": "一帆风顺",
+      "type": "balls",
+      "code": "ssc_qw_yffs",
+      "customChoice": 0,
+      "rule": "从0-9中任意选择1个以上号码。",
+      "list": [
+        {"title": "一帆风顺", "balls": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]}
+      ]
+    },
+    {
+      "name": "好事成双",
+      "type": "balls",
+      "code": "ssc_qw_hscs",
+      "customChoice": 0,
+      "rule": "从0-9中任意选择1个以上的二重号码。",
+      "list": [
+        {"title": "好事成双", "balls": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]}
+      ]
+    },
+    {
+      "name": "三星报喜",
+      "type": "balls",
+      "code": "ssc_qw_sxbx",
+      "customChoice": 0,
+      "rule": "从0-9中任意选择1个以上的三重号码。",
+      "list": [
+        {"title": "三星报喜", "balls": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]}
+      ]
+    },
+    {
+      "name": "四季发财",
+      "type": "balls",
+      "code": "ssc_qw_sjfc",
+      "customChoice": 0,
+      "rule": "从0-9中任意选择1个以上的四重号码。",
+      "list": [
+        {"title": "四季发财", "balls": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]}
+      ]
+    }
+  ]
+}

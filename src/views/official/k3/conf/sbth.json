@@ -1,0 +1,15 @@
+{
+  "playGroupIndex": 0,
+  "playGroupList": [
+    {
+      "name": "标准",
+      "type": "balls",
+      "code": "ks_sbth_bz",
+      "customChoice": 0,
+      "rule": "从1-6中任选3个或者3个以上的号码，所选号码与开奖号码相同即中奖。",
+      "list": [
+        {"title": "标准", "balls": ["1", "2", "3", "4", "5", "6"]}
+      ]
+    }
+  ]
+}

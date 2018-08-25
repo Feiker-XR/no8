@@ -1,0 +1,15 @@
+{
+  "playGroupIndex": 0,
+  "playGroupList": [
+    {
+      "name": "复式",
+      "type": "balls",
+      "code": "ks_eth_fs",
+      "customChoice": 0,
+      "rule": "对三个号码中两个指定的相同号码进行投注。(选择范围11-66)",
+      "list": [
+        {"title": "复式", "balls": ["11", "22", "33", "44", "55", "66"]}
+      ]
+    }
+  ]
+}

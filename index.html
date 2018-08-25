@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <!--<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=0">-->
+    <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=0">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <title>8号彩票</title>
+  </head>
+  <body>
+    <div id="app-box"></div>
+    <script type="text/javascript">
+      // 禁止鼠标滚轮滑动
+      function disabledMouseWheel () {
+        if (document.addEventListener) {
+          document.addEventListener('DOMMouseScroll', scrollFunc, false)
+        } // W3C
+        window.onmousewheel = document.onmousewheel = scrollFunc // IE/Opera/Chrome
+      }
+      function scrollFunc (evt) {
+        return false
+      }
+      window.onload = disabledMouseWheel
+
+      // 阻止ios上下滑动
+      window.addEventListener('scroll.elasticity', function (e) {
+        e.preventDefault()
+      })
+      window.addEventListener('touchmove.elasticity', function (e) {
+        e.preventDefault()
+      })
+
+    </script>
+    <!-- built files will be auto injected -->
+  </body>
+</html>

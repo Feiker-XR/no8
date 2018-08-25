@@ -1,0 +1,114 @@
+{
+  "currentStatus": 0,
+  "currentData": [
+    {
+      "children": [
+        {
+          "gameId": 1,
+          "gameName": "重庆时时彩",
+          "removed": false,
+          "gameCode": "cqssc"
+        },
+        {
+          "gameId": 2,
+          "gameName": "天津时时彩",
+          "removed": false,
+          "gameCode": "tjssc"
+        },
+        {
+          "gameId": 3,
+          "gameName": "新疆时时彩",
+          "removed": false,
+          "gameCode": "xjssc"
+        }
+      ],
+      "gameTypeName": "时时彩",
+      "typeCode": "ssc"
+    },
+    {
+      "children": [
+        {
+          "gameId": 23,
+          "gameName": "北京pk10",
+          "removed": false,
+          "gameCode": "bjpk10"
+        }
+      ],
+      "gameTypeName": "PK10",
+      "typeCode": "pk10"
+    },
+    {
+      "children": [
+        {
+          "gameId": 21,
+          "gameName": "江苏快三",
+          "removed": false,
+          "gameCode": "jsk3"
+        }
+      ],
+      "gameTypeName": "快三",
+      "typeCode": "k3"
+    },
+    {
+      "children": [
+        {
+          "gameId": 11,
+          "gameName": "广东11选5",
+          "removed": false,
+          "gameCode": "gd11x5"
+        },
+        {
+          "gameId": 12,
+          "gameName": "上海11选5",
+          "removed": false,
+          "gameCode": "sh11x5"
+        },
+        {
+          "gameId": 14,
+          "gameName": "安徽11选5",
+          "removed": false,
+          "gameCode": "ah11x5"
+        },
+        {
+          "gameId": 15,
+          "gameName": "江西11选5",
+          "removed": false,
+          "gameCode": "jx11x5"
+        }
+      ],
+      "gameTypeName": "11选5",
+      "typeCode": "c11x5"
+    },
+    {
+      "children": [
+        {
+          "gameId": 20,
+          "gameName": "北京快乐8",
+          "removed": false,
+          "gameCode": "bjkl8"
+        }
+      ],
+      "gameTypeName": "快8",
+      "typeCode": "kl8"
+    },
+    {
+      "children": [
+        {
+          "gameId": 18,
+          "gameName": "福彩3D",
+          "removed": false,
+          "gameCode": "fc3d"
+        },
+        {
+          "gameId": 24,
+          "gameName": "排列3",
+          "removed": false,
+          "gameCode": "pl3"
+        }
+      ],
+      "gameTypeName": "3D/P3",
+      "typeCode": "3dp3"
+    }
+  ],
+  "errorInformation": null
+}

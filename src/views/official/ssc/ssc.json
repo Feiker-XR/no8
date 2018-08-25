@@ -1,0 +1,14 @@
+[
+  {"name": "五星", "code": "wx"},
+  {"name": "四星", "code": "sx"},
+  {"name": "后三", "code": "hs"},
+  {"name": "中三", "code": "zs"},
+  {"name": "前三", "code": "qs"},
+  {"name": "后二", "code": "he"},
+  {"name": "前二", "code": "qe"},
+  {"name": "定位胆", "code": "dwd"},
+  {"name": "不定位胆", "code": "bdwd"},
+  {"name": "趣味", "code": "qw"},
+  {"name": "大小单双", "code": "dxds"},
+  {"name": "龙虎", "code": "lh"}
+]

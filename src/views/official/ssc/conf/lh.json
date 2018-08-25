@@ -1,0 +1,115 @@
+{
+  "playGroupIndex": 0,
+  "playGroupList": [
+    {
+      "name": "万千",
+      "type": "balls",
+      "code": "ssc_lh_wq",
+      "showFastOpera": false,
+      "customChoice": 0,
+      "rule": "选择一个形态组成一注",
+      "list": [
+        {"title": "龙虎", "balls": ["龙", "虎", "和"]}
+      ]
+    },
+    {
+      "name": "万百",
+      "type": "balls",
+      "code": "ssc_lh_wb",
+      "showFastOpera": false,
+      "customChoice": 0,
+      "rule": "选择一个形态组成一注",
+      "list": [
+        {"title": "龙虎", "balls": ["龙", "虎", "和"]}
+      ]
+    },
+    {
+      "name": "万十",
+      "type": "balls",
+      "code": "ssc_lh_ws",
+      "showFastOpera": false,
+      "customChoice": 0,
+      "rule": "选择一个形态组成一注",
+      "list": [
+        {"title": "龙虎", "balls": ["龙", "虎", "和"]}
+      ]
+    },
+    {
+      "name": "万个",
+      "type": "balls",
+      "code": "ssc_lh_wg",
+      "showFastOpera": false,
+      "customChoice": 0,
+      "rule": "选择一个形态组成一注",
+      "list": [
+        {"title": "龙虎", "balls": ["龙", "虎", "和"]}
+      ]
+    },
+    {
+      "name": "千百",
+      "type": "balls",
+      "code": "ssc_lh_qb",
+      "showFastOpera": false,
+      "customChoice": 0,
+      "rule": "选择一个形态组成一注",
+      "list": [
+        {"title": "龙虎", "balls": ["龙", "虎", "和"]}
+      ]
+    },
+    {
+      "name": "千十",
+      "type": "balls",
+      "code": "ssc_lh_qs",
+      "showFastOpera": false,
+      "customChoice": 0,
+      "rule": "选择一个形态组成一注",
+      "list": [
+        {"title": "龙虎", "balls": ["龙", "虎", "和"]}
+      ]
+    },
+    {
+      "name": "千个",
+      "type": "balls",
+      "code": "ssc_lh_qg",
+      "showFastOpera": false,
+      "customChoice": 0,
+      "rule": "选择一个形态组成一注",
+      "list": [
+        {"title": "龙虎", "balls": ["龙", "虎", "和"]}
+      ]
+    },
+    {
+      "name": "百十",
+      "type": "balls",
+      "code": "ssc_lh_bs",
+      "showFastOpera": false,
+      "customChoice": 0,
+      "rule": "选择一个形态组成一注",
+      "list": [
+        {"title": "龙虎", "balls": ["龙", "虎", "和"]}
+      ]
+    },
+    {
+      "name": "百个",
+      "type": "balls",
+      "code": "ssc_lh_bg",
+      "showFastOpera": false,
+      "customChoice": 0,
+      "rule": "选择一个形态组成一注",
+      "list": [
+        {"title": "龙虎", "balls": ["龙", "虎", "和"]}
+      ]
+    },
+    {
+      "name": "十个",
+      "type": "balls",
+      "code": "ssc_lh_sg",
+      "showFastOpera": false,
+      "customChoice": 0,
+      "rule": "选择一个形态组成一注",
+      "list": [
+        {"title": "龙虎", "balls": ["龙", "虎", "和"]}
+      ]
+    }
+  ]
+}

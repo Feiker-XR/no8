@@ -1,0 +1,15 @@
+{
+  "playGroupIndex": 0,
+  "playGroupList": [
+    {
+      "name": "直选复式",
+      "type": "balls",
+      "code": "pk10_qy_zxfs",
+      "customChoice": 0,
+      "rule": "从第一名中至少选择1个号码组成一注。",
+      "list": [
+        {"title": "第一名", "balls": ["01", "02", "03", "04", "05", "06", "07", "08", "09", "10"]}
+      ]
+    }
+  ]
+}

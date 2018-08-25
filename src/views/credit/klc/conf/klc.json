@@ -1,0 +1,28 @@
+{
+  "viewM": {
+    "zh": {
+      "1": {
+        "name": "点数",
+        "sz": []
+      },
+      "2": {
+        "name": "两面",
+        "dxds": []
+      },
+      "3": {
+        "name": "色波/豹子/包三",
+        "dxds": []
+      }
+    }
+  },
+  "showLeftSide": false,
+  "menus": [
+    {"value": "0", "label": "幸运玩法", "choosen": true}
+  ],
+  "defaultPlay": "ds",
+  "tabs": [
+    { "label": "点数", "value": "ds" },
+    { "label": "两面", "value": "lm" },
+    { "label": "色波", "value": "sb" }
+  ]
+}

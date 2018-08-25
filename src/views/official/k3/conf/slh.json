@@ -1,0 +1,26 @@
+{
+  "playGroupIndex": 0,
+  "playGroupList": [
+    {
+      "name": "单选",
+      "type": "balls",
+      "code": "ks_slh_dx",
+      "customChoice": 0,
+      "rule": "对三连号选择一个或多个投注",
+      "list": [
+        {"title": "单选", "balls": ["123", "234", "345", "456"]}
+      ]
+    },
+    {
+      "name": "通选",
+      "type": "balls",
+      "code": "ks_slh_tx",
+      "showFastOpera": false,
+      "customChoice": 0,
+      "rule": "对所有三个相连的号码（仅限：123、234、345、456）进行投注。",
+      "list": [
+        {"title": "通选", "balls": ["全"]}
+      ]
+    }
+  ]
+}

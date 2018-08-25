@@ -1,0 +1,25 @@
+{
+  "playGroupIndex": 0,
+  "playGroupList": [
+    {
+      "name": "一码不定位胆",
+      "type": "balls",
+      "code": "3d/p3_bdwd_ymbdwd",
+      "customChoice": 0,
+      "rule": "从0-9中任意选择1个以上号码。",
+      "list": [
+        {"title": "不定位", "balls": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]}
+      ]
+    },
+    {
+      "name": "二码不定位胆",
+      "type": "balls",
+      "code": "3d/p3_bdwd_embdwd",
+      "customChoice": 0,
+      "rule": "从0-9中任意选择2个以上号码。",
+      "list": [
+        {"title": "不定位", "balls": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]}
+      ]
+    }
+  ]
+}

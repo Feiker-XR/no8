@@ -1,0 +1,17 @@
+{
+  "currentStatus": 0,
+  "currentData": [
+    {
+      "dateTime": "600",
+      "gameCode": "cqssc",
+      "lotteryGameId": 1,
+      "lotteryGameName": "重庆时时彩",
+      "nextGameResultNum": "20180818074",
+      "nextLotteryTime": 0,
+      "openLotteryTime": 27,
+      "openResultNum": "120",
+      "openTimeType": 1
+    }
+  ],
+  "errorInformation": null
+}

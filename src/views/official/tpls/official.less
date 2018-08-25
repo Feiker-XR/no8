@@ -1,0 +1,102 @@
+.content-wrapper {
+  .content {
+    /*margin-top: -1px;*/
+    /** 投注区左侧样式 **/
+    .lottery-plays-scroll {
+      background: #ebebeb;
+      ul {
+        text-align: left;
+        text-indent: 20px;
+        list-style-type: none;
+        li {
+          height: 37px;
+          line-height: 37px;
+          font-size: 12px;
+          box-sizing: border-box;
+          border-right: 1px solid #eeeeee;
+          color: #5d5d5d;
+          background: #fff;
+          &.active {
+            background: #d23748;
+            color: #fff;
+            border-bottom: 1px solid #fff;
+            border-top: 1px solid #eeeeee;
+            &:first-child {
+              border-top: none;
+            }
+            &:last-child {
+              border-bottom: none;
+            }
+          }
+          &.active:after{
+            background: #fff;
+          }
+          &.active:before {
+          }
+          &:before {
+            /*content: "";
+            display: block;
+            width: 6px;
+            height: 6px;
+            border-radius: 50%;
+            -webkit-border-radius: 50%;
+            background: #ccc;
+            position: absolute;
+            left: 6px;
+            margin-top: 15px*/
+          }
+          &:after{
+            content: "";
+            height: 2px;
+            background: #eeeeee;
+            display: block;
+            transform: scaleY(0.5);
+          }
+          &:last-child:after{
+            height: 0;
+            border-bottom: none;
+          }
+        }
+      }
+    }
+
+    /*** 投注区右侧样式 **/
+    // 顶部导航
+    .play-group-item {
+      position: relative;
+      height: 37px!important;
+      border-bottom: 1px solid #eeeeee;
+      box-sizing: border-box;
+      ul {
+        font-size: 12px;
+        li {
+          height: 37px;
+          width: 70px;
+          float: left;
+          line-height: 37px;
+          display: inline-block;
+          text-align: center;
+          background-color: #ffffff;
+          span {
+            padding: 3px 5px;
+            color: black;
+            &.active {
+              color: #ffffff;
+              background-color: #d23748;
+            }
+          }
+        }
+      }
+    }
+    &:after {
+      content: "";
+      height: 2px;
+      background: red;
+      display: block;
+      margin-top: -2px;
+    }
+  &.border {
+    border-top: 1px solid #e0e0e0;
+  }
+  }
+}

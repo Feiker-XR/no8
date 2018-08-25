@@ -1,0 +1,35 @@
+{
+  "playGroupIndex": 0,
+  "playGroupList": [
+    {
+      "name": "前三不定位胆",
+      "type": "balls",
+      "code": "11x5_bdwd_qsbdwd",
+      "customChoice": 0,
+      "rule": "从01-11中任意选择1个以上号码。",
+      "list": [
+        {"title": "前三位", "balls": ["01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11"]}
+      ]
+    },
+    {
+      "name": "中三不定位胆",
+      "type": "balls",
+      "code": "11x5_bdwd_zsbdwd",
+      "customChoice": 0,
+      "rule": "从01-11中任意选择1个以上号码。",
+      "list": [
+        {"title": "中三位", "balls": ["01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11"]}
+      ]
+    },
+    {
+      "name": "后三不定位胆",
+      "type": "balls",
+      "code": "11x5_bdwd_hsbdwd",
+      "customChoice": 0,
+      "rule": "从01-11中任意选择1个以上号码。",
+      "list": [
+        {"title": "后三位", "balls": ["01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11"]}
+      ]
+    }
+  ]
+}

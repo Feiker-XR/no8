@@ -1,0 +1,102 @@
+{
+  "currentStatus": 0,
+  "currentData": [
+    {
+      "gameId": "17",
+      "gameTypeId": "90000000000000011",
+      "gameName": "极速时时分分彩",
+      "gameTypeName": "时时彩",
+      "gameCode": "xyffc",
+      "typeCode": "ssc"
+    },
+    {
+      "gameId": "3",
+      "gameTypeId": "90000000000000011",
+      "gameName": "新疆时时彩",
+      "gameTypeName": "时时彩",
+      "gameCode": "xjssc",
+      "typeCode": "ssc"
+    },
+    {
+      "gameId": "63",
+      "gameTypeId": "90000000000000018",
+      "gameName": "广东快乐十分",
+      "gameTypeName": "快乐十分",
+      "gameCode": "gdklsf",
+      "typeCode": "klsf"
+    },
+    {
+      "gameId": "2",
+      "gameTypeId": "90000000000000011",
+      "gameName": "天津时时彩",
+      "gameTypeName": "时时彩",
+      "gameCode": "tjssc",
+      "typeCode": "ssc"
+    },
+    {
+      "gameId": "15",
+      "gameTypeId": "90000000000000011",
+      "gameName": "极速时时五分彩",
+      "gameTypeName": "时时彩",
+      "gameCode": "xywfc",
+      "typeCode": "ssc"
+    },
+    {
+      "gameId": "58",
+      "gameTypeId": "90000000000000017",
+      "gameName": "湖北11选5",
+      "gameTypeName": "11选5",
+      "gameCode": "hb11x5",
+      "typeCode": "c11x5"
+    },
+    {
+      "gameId": "59",
+      "gameTypeId": "90000000000000017",
+      "gameName": "安徽11选5",
+      "gameTypeName": "11选5",
+      "gameCode": "ah11x5",
+      "typeCode": "c11x5"
+    },
+    {
+      "gameId": "60",
+      "gameTypeId": "90000000000000017",
+      "gameName": "江苏11选5",
+      "gameTypeName": "11选5",
+      "gameCode": "js11x5",
+      "typeCode": "c11x5"
+    },
+    {
+      "gameId": "4",
+      "gameTypeId": "90000000000000013",
+      "gameName": "PC蛋蛋",
+      "gameTypeName": "PC蛋蛋",
+      "gameCode": "pcdd",
+      "typeCode": "klc"
+    },
+    {
+      "gameId": "65",
+      "gameTypeId": "90000000000000018",
+      "gameName": "天津快乐十分",
+      "gameTypeName": "快乐十分",
+      "gameCode": "tjklsf",
+      "typeCode": "klsf"
+    },
+    {
+      "gameId": "5",
+      "gameTypeId": "90000000000000016",
+      "gameName": "香港六合彩",
+      "gameTypeName": "六合彩",
+      "gameCode": "lhc",
+      "typeCode": "xgc"
+    },
+    {
+      "gameId": "1",
+      "gameTypeId": "90000000000000011",
+      "gameName": "重庆时时彩",
+      "gameTypeName": "时时彩",
+      "gameCode": "cqssc",
+      "typeCode": "ssc"
+    }
+  ],
+  "errorInformation": null
+}

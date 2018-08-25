@@ -1,0 +1,12 @@
+{
+  "currentStatus": 0,
+  "currentData": {
+    "total": {
+      "winOrLoseTotal": 0.00,
+      "currentTotal": 0.00,
+      "betAmountTotal": 0.00
+    },
+    "resultData": []
+  },
+  "errorInformation": null
+}

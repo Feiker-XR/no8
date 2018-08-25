@@ -1,0 +1,34 @@
+{
+  "currentStatus": 0,
+  "currentData": {
+    "token": "5303fb8e-dfc6-4438-9e19-0eee2e63b7f7",
+    "userContext": {
+      "id": 22519,
+      "createTime": 1529568990000,
+      "lastModifyTime": 1529568990000,
+      "createUser": "自动注册",
+      "operatorUser": "自动注册",
+      "remark": "自动注册",
+      "removed": false,
+      "parentProxyId": 5,
+      "userAccount": "feiker",
+      "userAmount": 910772.02,
+      "userPassword": "1234",
+      "inputCode": "04ab12f2-69e7-4533-8265-531047a5c41a",
+      "currentToken": null,
+      "ip": "61.28.172.37",
+      "address": "海外",
+      "toplineAccount": null,
+      "versionNo": 498,
+      "groupCode": null,
+      "groupLevel": 0,
+      "checkOdds": 0,
+      "percentage": "0",
+      "maxPercentage": "5",
+      "proxyName": "试玩代理",
+      "downline": false
+    },
+    "currentIp": "61.28.172.37"
+  },
+  "errorInformation": null
+}

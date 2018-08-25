@@ -1,0 +1,8 @@
+[
+  {"name": "和值", "code": "hz"},
+  {"name": "二同号", "code": "eth"},
+  {"name": "二不同号", "code": "ebth"},
+  {"name": "三同号", "code": "sth"},
+  {"name": "三不同号", "code": "sbth"},
+  {"name": "三连号", "code": "slh"}
+]

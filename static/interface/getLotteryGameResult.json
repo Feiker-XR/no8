@@ -1,0 +1,13 @@
+{
+  "currentStatus": 0,
+  "currentData": {
+    "dateTime": 600,
+    "lotteryGameName": "重庆时时彩",
+    "lotteryStatistics": "29,大,单,虎",
+    "gameResultNum": "20180818073",
+    "lotteryGameId": 1,
+    "gameCode": "cqssc",
+    "gameResult": "4,7,7,2,9"
+  },
+  "errorInformation": null
+}

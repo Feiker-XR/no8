@@ -1,0 +1,28 @@
+{
+  "tabs": [
+    { "label": "快捷", "value": "kj" },
+    { "label": "特码", "value": "tm" },
+    { "label": "特肖", "value": "tx" },
+    { "label": "正码一", "value": "zm1" },
+    { "label": "正码二", "value": "zm2" },
+    { "label": "正码三", "value": "zm3" },
+    { "label": "正码四", "value": "zm4" },
+    { "label": "正码五", "value": "zm5" },
+    { "label": "正码六", "value": "zm6" },
+    { "label": "正码", "value": "zm" },
+    { "label": "特码头尾", "value": "tmtw" },
+    { "label": "五行", "value": "wx" },
+    { "label": "半波", "value": "banbo" },
+    { "label": "七码", "value": "qm" }
+  ],
+  "menus": [
+    {"value": "tm", "label": "特码", "choosen": false},
+    {"value": "zm1", "label": "正码一", "choosen": false},
+    {"value": "zm2", "label": "正码二", "choosen": false},
+    {"value": "zm3", "label": "正码三", "choosen": false},
+    {"value": "zm4", "label": "正码四", "choosen": false},
+    {"value": "zm5", "label": "正码五", "choosen": false},
+    {"value": "zm6", "label": "正码六", "choosen": false}
+  ],
+  "showLeftSide": true
+}

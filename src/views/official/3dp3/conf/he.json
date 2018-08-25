@@ -1,0 +1,42 @@
+{
+  "playGroupIndex": 0,
+  "playGroupList": [
+    {
+      "name": "直选复式",
+      "type": "balls",
+      "code": "3d/p3_he_zxfs",
+      "customChoice": 0,
+      "rule": "从十位、个位中至少各选1个号码组成一注。",
+      "list": [
+        {"title": "十位", "balls": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]},
+        {"title": "个位", "balls": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]}
+      ]
+    },
+    {
+      "name": "直选单式",
+      "type": "text",
+      "code": "3d/p3_he_zxds",
+      "customChoice": 2,
+      "rule": "手动输入号码，至少输入1个二位数号码组成一注。",
+      "list": []
+    },
+    {
+      "name": "组选组二",
+      "type": "balls",
+      "code": "3d/p3_he_zuxze",
+      "customChoice": 0,
+      "rule": "从0-9中任意选择2个或2个以上号码。",
+      "list": [
+        {"title": "组选", "balls": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]}
+      ]
+    },
+    {
+      "name": "组选混合",
+      "type": "text",
+      "code": "3d/p3_he_zuxhh",
+      "customChoice": 2,
+      "rule": "手动输入号码，至少输入1个二位数号码组成一注。",
+      "list": []
+    }
+  ]
+}

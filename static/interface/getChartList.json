@@ -1,0 +1,126 @@
+{
+  "currentStatus": 0,
+  "currentData": [
+    {
+      "lotteryStatistics": "20,小,双,虎",
+      "lotteryNumber": "0,6,3,4,7",
+      "gameCode": "cqssc",
+      "lotteryResultNum": "20180818074"
+    },
+    {
+      "lotteryStatistics": "29,大,单,虎",
+      "lotteryNumber": "4,7,7,2,9",
+      "gameCode": "cqssc",
+      "lotteryResultNum": "20180818073"
+    },
+    {
+      "lotteryStatistics": "30,大,双,龙",
+      "lotteryNumber": "8,9,0,6,7",
+      "gameCode": "cqssc",
+      "lotteryResultNum": "20180818071"
+    },
+    {
+      "lotteryStatistics": "30,大,双,虎",
+      "lotteryNumber": "1,6,7,7,9",
+      "gameCode": "cqssc",
+      "lotteryResultNum": "20180818070"
+    },
+    {
+      "lotteryStatistics": "23,大,单,虎",
+      "lotteryNumber": "1,4,2,8,8",
+      "gameCode": "cqssc",
+      "lotteryResultNum": "20180818068"
+    },
+    {
+      "lotteryStatistics": "20,小,双,龙",
+      "lotteryNumber": "8,3,0,8,1",
+      "gameCode": "cqssc",
+      "lotteryResultNum": "20180818067"
+    },
+    {
+      "lotteryStatistics": "17,小,单,虎",
+      "lotteryNumber": "1,3,3,8,2",
+      "gameCode": "cqssc",
+      "lotteryResultNum": "20180818066"
+    },
+    {
+      "lotteryStatistics": "25,大,单,虎",
+      "lotteryNumber": "2,8,1,7,7",
+      "gameCode": "cqssc",
+      "lotteryResultNum": "20180818065"
+    },
+    {
+      "lotteryStatistics": "27,大,单,龙",
+      "lotteryNumber": "9,8,0,2,8",
+      "gameCode": "cqssc",
+      "lotteryResultNum": "20180818064"
+    },
+    {
+      "lotteryStatistics": "12,小,双,虎",
+      "lotteryNumber": "4,2,1,0,5",
+      "gameCode": "cqssc",
+      "lotteryResultNum": "20180818063"
+    },
+    {
+      "lotteryStatistics": "19,小,单,虎",
+      "lotteryNumber": "2,6,0,8,3",
+      "gameCode": "cqssc",
+      "lotteryResultNum": "20180818061"
+    },
+    {
+      "lotteryStatistics": "10,小,双,龙",
+      "lotteryNumber": "7,0,2,0,1",
+      "gameCode": "cqssc",
+      "lotteryResultNum": "20180818060"
+    },
+    {
+      "lotteryStatistics": "35,大,单,虎",
+      "lotteryNumber": "7,7,8,6,7",
+      "gameCode": "cqssc",
+      "lotteryResultNum": "20180818059"
+    },
+    {
+      "lotteryStatistics": "10,小,双,虎",
+      "lotteryNumber": "4,1,0,1,4",
+      "gameCode": "cqssc",
+      "lotteryResultNum": "20180818058"
+    },
+    {
+      "lotteryStatistics": "26,大,双,龙",
+      "lotteryNumber": "3,7,8,6,2",
+      "gameCode": "cqssc",
+      "lotteryResultNum": "20180818057"
+    },
+    {
+      "lotteryStatistics": "31,大,单,虎",
+      "lotteryNumber": "8,9,1,4,9",
+      "gameCode": "cqssc",
+      "lotteryResultNum": "20180818056"
+    },
+    {
+      "lotteryStatistics": "17,小,单,龙",
+      "lotteryNumber": "9,2,3,0,3",
+      "gameCode": "cqssc",
+      "lotteryResultNum": "20180818055"
+    },
+    {
+      "lotteryStatistics": "13,小,单,虎",
+      "lotteryNumber": "1,0,2,6,4",
+      "gameCode": "cqssc",
+      "lotteryResultNum": "20180818054"
+    },
+    {
+      "lotteryStatistics": "35,大,单,虎",
+      "lotteryNumber": "8,6,7,6,8",
+      "gameCode": "cqssc",
+      "lotteryResultNum": "20180818053"
+    },
+    {
+      "lotteryStatistics": "20,小,双,龙",
+      "lotteryNumber": "6,2,8,4,0",
+      "gameCode": "cqssc",
+      "lotteryResultNum": "20180818052"
+    }
+  ],
+  "errorInformation": null
+}

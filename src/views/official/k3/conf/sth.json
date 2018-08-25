@@ -1,0 +1,26 @@
+{
+  "playGroupIndex": 0,
+  "playGroupList": [
+    {
+      "name": "单选",
+      "type": "balls",
+      "code": "ks_sth_dx",
+      "customChoiceode": 0,
+      "rule": "从所有相同的三个号码（111、222、…、666）中任意选择一组号码进行投注。",
+      "list": [
+        {"title": "单选", "balls": ["111", "222", "333", "444", "555", "666"]}
+      ]
+    },
+    {
+      "name": "通选",
+      "type": "balls",
+      "code": "ks_sth_tx",
+      "showFastOpera": false,
+      "customChoiceode": 0,
+      "rule": "对所有相同的三个号码（111、222、…、666）进行投注",
+      "list": [
+        {"title": "通选", "balls": ["全"]}
+      ]
+    }
+  ]
+}

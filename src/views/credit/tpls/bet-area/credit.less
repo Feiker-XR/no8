@@ -1,0 +1,172 @@
+.content-wrapper {
+  .content {
+    border-top: solid 1px #dcdcdc;
+    border-bottom: none;
+    .vux-spinner {
+      stroke: #dcdcdc;
+      fill: #dcdcdc;
+    }
+    .spinner-loading {
+      position: absolute;
+      margin-top: 100px;
+      left: 50%;
+    }
+    .lottery-plays-scroll {
+      background: #ebebeb;
+      .lottery-plays {
+        text-align: center;
+        list-style-type: none;
+        li {
+          height: 35px;
+          line-height: 35px;
+          border-bottom: 1px solid #fff;
+          color: #5d5d5d;
+          font-size: 0.875rem;
+          border-color: rgba(204,204,204, 0.5);
+          &.active {
+            background: #d23748;
+            color: #fff;
+            border-bottom: 1px solid #9a1a28;
+            border-color: #fff;
+          }
+          &:first-child {
+            border-right: solid 1px #dcdcdc;
+            height: 31px;
+            line-height: 31px;
+          }
+          &.active:before {
+            background: #fdcb00 !important;
+          }
+          &:before {
+            content: "";
+            display: block;
+            width: 6px;
+            height: 6px;
+            border-radius: 50%;
+            -webkit-border-radius: 50%;
+            background: #ccc;
+            position: absolute;
+            left: 6px;
+            margin-top: 15px
+          }
+        }
+      }
+    }
+    .play-group-scroll {
+      .play-group-title {
+        position: relative;
+        background: #ebebeb;
+        letter-spacing: .8rem;
+        .title {
+          color: #5d5d5d;
+          padding: .3125rem .5rem;
+          font-size: 14px;
+          background-clip: padding-box;
+          font-weight: 400;
+          text-align: center;
+        }
+      }
+      .play-group-item {
+        position: relative;
+        color: rgba(0, 0, 0, .8);
+        box-shadow: 1px 1px 0 #ececec;
+        &.selected .icon {
+          &:before {
+            position: absolute;
+            display: block;
+            content: '';
+            height: 28px;
+            width: 28px;
+            left: 0;
+            top: 0;
+            background: url('../../../../assets/images/triangle_icon.png') no-repeat center;
+            background-size: cover;
+          }
+        }
+        .item {
+          display: inline-block;
+          overflow: hidden;
+          text-align: center;
+          width: 100%;
+          height: 46px;
+          line-height: 46px;
+          .text {
+            line-height: 30px;
+            display: inline-block;
+            font-size: .9375rem;
+            margin-top: 10px;
+            margin-left: 8px;
+          }
+          .odds {
+            display: inline-block;
+            padding-left: 0px;
+            font-size: .98rem;
+            color: rgba(0, 0, 0, .5);
+            width: 45px;
+            font-size: 14px;
+            text-align: left;
+          }
+        }
+      }
+    }
+    /*** icon **/
+    .icon:before {
+      position: absolute;
+      display: block;
+      content: "";
+      height: 28px;
+      width: 28px;
+      left: 1px;
+      top: 0;
+      background: url('../../../../assets/images/triangle_icon.png') no-repeat 50%;
+      background-size: cover;
+      border-top-left-radius: 3px;
+      border-right: 1px solid rgba(255, 255, 255, 0); /***三星手机上出现边框的问题**/
+      overflow: hidden;
+    }
+    .icon1.icon:before {
+      left: 0;
+    }
+    .slide-fade-enter {
+      transform: translate3d(100%, 0, 0);
+      opacity: 0;
+    }
+    .slide-fade-enter-active {
+      transition: all .2s ease;
+    }
+  }
+}
+/** 投注区 **/
+.ssc-kj-box section, .ssc-kj-item-inner {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.ssc-kj-box section, .ssc-kj-item-inner {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.ssc-kj-item, .ssc-kj-item-big, .ssc-kj-item-inner-item {
+  flex-basis: 22%;
+  box-sizing: border-box;
+  text-align: center;
+  margin: 8px 3px 4px 4px;
+}
+.ssc-kj-item.title{
+  flex-basis:100%;
+  height: 32px;
+  line-height: 32px;
+  color: #e83f3f;
+  font-size: 17px;
+  font-size: 1rem;
+  font-weight: 600;
+  margin-top: 20px;
+  margin-bottom: -5px;
+}
+.ssc-kj-item.smaller {
+  flex-basis: 16%;
+}
+

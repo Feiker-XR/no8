@@ -1,0 +1,9 @@
+{
+  "tabs": [
+    { "label": "两面盘", "value": "lm" },
+    { "label": "正码", "value": "1" }
+  ],
+  "menus": [],
+  "showLeftSide": false,
+  "defaultPlay": "lm"
+}

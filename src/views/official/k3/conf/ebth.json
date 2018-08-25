@@ -1,0 +1,15 @@
+{
+  "playGroupIndex": 0,
+  "playGroupList": [
+    {
+      "name": "标准",
+      "type": "balls",
+      "code": "ks_ebth_bz",
+      "customChoice": 0,
+      "rule": "对三个号码中两个指定的不同号码进行投注",
+      "list": [
+        {"title": "标准", "balls": ["1", "2", "3", "4", "5", "6"]}
+      ]
+    }
+  ]
+}

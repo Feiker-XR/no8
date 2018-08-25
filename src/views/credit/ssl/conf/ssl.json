@@ -1,0 +1,18 @@
+{
+  "tabs": [
+    { "label": "快捷", "value": "kj" },
+    { "label": "两面盘", "value": "lm" },
+    { "label": "数字盘", "value": "sz" },
+    { "label": "第一球", "value": "1" },
+    { "label": "第二球", "value": "2" },
+    { "label": "第三球", "value": "3" },
+    { "label": "跨度", "value": "kd" },
+    { "label": "和数", "value": "hs" }
+  ],
+  "menus": [
+    {"value": "1", "label": "第一球", "choosen": false},
+    {"value": "2", "label": "第二球", "choosen": false},
+    {"value": "3", "label": "第三球", "choosen": false}
+  ],
+  "showLeftSide": true
+}

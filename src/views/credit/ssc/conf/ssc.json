@@ -1,0 +1,21 @@
+{
+  "showLeftSide": true,
+  "menus": [
+    { "label": "第一球", "value": "w", "choosen": false },
+    { "label": "第二球", "value": "q", "choosen": false },
+    { "label": "第三球", "value": "b", "choosen": false },
+    { "label": "第四球", "value": "s", "choosen": false },
+    { "label": "第五球", "value": "g", "choosen": false }
+  ],
+  "tabs": [
+    { "label": "快捷", "value": "kj" },
+    { "label": "整合盘", "value": "zh" },
+    { "label": "两面盘", "value": "lm" },
+    { "label": "数字盘", "value": "sz" },
+    { "label": "第一球", "value": "w" },
+    { "label": "第二球", "value": "q" },
+    { "label": "第三球", "value": "b" },
+    { "label": "第四球", "value": "s" },
+    { "label": "第五球", "value": "g" }
+  ]
+}

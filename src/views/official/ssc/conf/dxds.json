@@ -1,0 +1,29 @@
+{
+  "playGroupIndex": 0,
+  "playGroupList": [
+    {
+      "name": "前二",
+      "type": "balls",
+      "code": "ssc_dxds_qe",
+      "showFastOpera": false,
+      "customChoice": 0,
+      "rule": "从万位、千位中的'大、小、单、双'中至少各选一个组成一注",
+      "list": [
+        {"title": "万位", "balls": ["大", "小", "单", "双"]},
+        {"title": "千位", "balls": ["大", "小", "单", "双"]}
+      ]
+    },
+    {
+      "name": "后二",
+      "type": "balls",
+      "code": "ssc_dxds_he",
+      "showFastOpera": false,
+      "customChoice": 0,
+      "rule": "从十位、个位中的'大、小、单、双'中至少各选一个组成一注",
+      "list": [
+        {"title": "十位", "balls": ["大", "小", "单", "双"]},
+        {"title": "个位", "balls": ["大", "小", "单", "双"]}
+      ]
+    }
+  ]
+}

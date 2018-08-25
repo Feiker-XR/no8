@@ -1,0 +1,105 @@
+{
+  "playGroupIndex": 0,
+  "playGroupList": [
+    {
+      "name": "前三一码",
+      "type": "balls",
+      "code": "ssc_bdwd_qsym",
+      "customChoice": 0,
+      "rule": "从0-9中任意选择1个以上号码。",
+      "list": [
+        {"title": "不定位", "balls": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]}
+      ]
+    },
+    {
+      "name": "前三二码",
+      "type": "balls",
+      "code": "ssc_bdwd_qsem",
+      "customChoice": 0,
+      "rule": "从0-9中任意选择2个以上号码。",
+      "list": [
+        {"title": "不定位", "balls": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]}
+      ]
+    },
+    {
+      "name": "中三一码",
+      "type": "balls",
+      "code": "ssc_bdwd_zsym",
+      "customChoice": 0,
+      "rule": "从0-9中任意选择1个以上号码。",
+      "list": [
+        {"title": "不定位", "balls": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]}
+      ]
+    },
+    {
+      "name": "中三二码",
+      "type": "balls",
+      "code": "ssc_bdwd_zsem",
+      "customChoice": 0,
+      "rule": "从0-9中任意选择2个以上号码。",
+      "list": [
+        {"title": "不定位", "balls": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]}
+      ]
+    },
+    {
+      "name": "后三一码",
+      "type": "balls",
+      "code": "ssc_bdwd_hsym",
+      "customChoice": 0,
+      "rule": "从0-9中任意选择1个以上号码。",
+      "list": [
+        {"title": "不定位", "balls": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]}
+      ]
+    },
+    {
+      "name": "后三二码",
+      "type": "balls",
+      "code": "ssc_bdwd_hsem",
+      "customChoice": 0,
+      "rule": "从0-9中任意选择2个以上号码。",
+      "list": [
+        {"title": "不定位", "balls": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]}
+      ]
+    },
+    {
+      "name": "五星二码",
+      "type": "balls",
+      "code": "ssc_bdwd_wxem",
+      "customChoice": 0,
+      "rule": "从0-9中任意选择2个以上号码。",
+      "list": [
+        {"title": "不定位", "balls": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]}
+      ]
+    },
+    {
+      "name": "五星三码",
+      "type": "balls",
+      "code": "ssc_bdwd_wxsm",
+      "customChoice": 0,
+      "rule": "从0-9中任意选择3个以上号码。",
+      "list": [
+        {"title": "不定位", "balls": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]}
+      ]
+    },
+    {
+      "name": "四星一码",
+      "type": "balls",
+      "code": "ssc_bdwd_sxym",
+      "customChoice": 0,
+      "rule": "从0-9中任意选择1个以上号码。",
+      "list": [
+        {"title": "不定位", "balls": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]}
+      ]
+    },
+    {
+      "name": "四星二码",
+      "type": "balls",
+      "code": "ssc_bdwd_sxem",
+      "customChoice": 0,
+      "rule": "从0-9中任意选择2个以上号码。",
+      "list": [
+        {"title": "不定位", "balls": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]}
+      ]
+    }
+  ]
+}
